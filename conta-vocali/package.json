@@ -1,0 +1,15 @@
+{
+  "name": "conta-vocali",
+  "version": "1.0.0",
+  "description": "Calcolare quante vocali ci sono in una stringa fornita come argomento",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js prova",
+    "dev": "node --watch app.js"
+  },
+  "author": "Dany",
+  "license": "ISC",
+  "dependencies": {
+    "conta-vocali": "file:"
+  }
+}
